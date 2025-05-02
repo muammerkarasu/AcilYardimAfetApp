@@ -1,0 +1,5 @@
+```xml
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Yakınınızdaki yardım noktalarını gösterebilmek için konum izni gerekiyor</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Yakınınızdaki yardım noktalarını gösterebilmek için konum izni gerekiyor</string>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158664988587",
+    "project_id": "afetyardim-2acc9",
+    "storage_bucket": "afetyardim-2acc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158664988587:android:7867ee5b2e5713c1a0e4ee",
+        "android_client_info": {
+          "package_name": "com.acilyadimafetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApF0pg8BQ-9lysamw3aXv_wLAr_1B255s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
