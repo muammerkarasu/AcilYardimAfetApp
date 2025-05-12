@@ -116,6 +116,8 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+    implementation platform('com.google.firebase:firebase-bom:32.3.1')
+    implementation 'com.google.firebase:firebase-messaging'
 }
 
 project.ext.vectoricons = [
@@ -123,3 +125,4 @@ project.ext.vectoricons = [
 ]
 
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+apply plugin: 'com.google.gms.google-services'

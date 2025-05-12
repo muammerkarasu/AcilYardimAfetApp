@@ -14,7 +14,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'AcilYadimAfetApp' do
+target 'AcilYardimAfetApp' do
   config = use_native_modules!
 
   use_react_native!(
@@ -32,4 +32,6 @@ target 'AcilYadimAfetApp' do
       # :ccache_enabled => true
     )
   end
+end
+pod 'Firebase/Messaging'
 end
